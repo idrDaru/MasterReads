@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "440172939808",
+    "project_id": "masterreads-c40b2",
+    "storage_bucket": "masterreads-c40b2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:440172939808:android:0f11ce8e9a6db71b3d4a45",
+        "android_client_info": {
+          "package_name": "com.example.masterreads"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "440172939808-17qli55snv0avtc2rj9k81bali1c6cqp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBwdWVkZNDDmIRCfRpfBI1cLQwlTkrEZ6w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "440172939808-17qli55snv0avtc2rj9k81bali1c6cqp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
